@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/atlassian/static/css/main.5652ce2d.chunk.css",
+    "main.js": "/atlassian/static/js/main.1ce13595.chunk.js",
+    "main.js.map": "/atlassian/static/js/main.1ce13595.chunk.js.map",
+    "runtime-main.js": "/atlassian/static/js/runtime-main.519983b1.js",
+    "runtime-main.js.map": "/atlassian/static/js/runtime-main.519983b1.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/atlassian/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.69089008.chunk.js": "/atlassian/static/js/2.69089008.chunk.js",
+    "static/js/2.69089008.chunk.js.map": "/atlassian/static/js/2.69089008.chunk.js.map",
+    "index.html": "/atlassian/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/atlassian/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.5652ce2d.chunk.css.map": "/atlassian/static/css/main.5652ce2d.chunk.css.map",
+    "static/js/2.69089008.chunk.js.LICENSE.txt": "/atlassian/static/js/2.69089008.chunk.js.LICENSE.txt",
+    "static/media/about.bb1b0244.png": "/atlassian/static/media/about.bb1b0244.png",
+    "static/media/android.8754b132.png": "/atlassian/static/media/android.8754b132.png",
+    "static/media/app.703e5e70.jpeg": "/atlassian/static/media/app.703e5e70.jpeg",
+    "static/media/digital.ade05a2f.png": "/atlassian/static/media/digital.ade05a2f.png",
+    "static/media/img2.5ef5b84e.jpeg": "/atlassian/static/media/img2.5ef5b84e.jpeg",
+    "static/media/img3.c0323ba7.jpeg": "/atlassian/static/media/img3.c0323ba7.jpeg",
+    "static/media/marketing.b7f977c9.png": "/atlassian/static/media/marketing.b7f977c9.png",
+    "static/media/software.05808884.jpeg": "/atlassian/static/media/software.05808884.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.519983b1.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.69089008.chunk.js",
+    "static/css/main.5652ce2d.chunk.css",
+    "static/js/main.1ce13595.chunk.js"
+  ]
+}
